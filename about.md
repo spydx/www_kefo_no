@@ -1,20 +1,23 @@
 ---
 layout: about
-title: About
+title: About Kenneth & Boisy
 permalink: /about/
 ---
 
 {% avatar {{ site.github_username }} size=150 %}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Fun loving guy, having a passion for secure coding, dogs and the outdoors.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You'll either find me running around on some mountain with my dog or benched behind the computerscreen until the late nights.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently doing my masters in Software Engineering at the University in Bergen.
 
+My paper is about Security Microservice architecture.
 
-[jekyll-organization]: https://github.com/jekyll
+Do not hesitate to contact me 
+
+{% include contact.html %}
+
+![Adventure pals](/assets/img/about/adventure.jpg)
+![Adventure pals](/assets/img/about/boisy.jpg)
+![Adventure pals](/assets/img/about/lofoten.jpg)
