@@ -1,1 +1,73 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: kefo.no
+email: kenneth@kefo.no
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  spydx
+
+
+author:
+  name: Kenneth Fossen
+  email: kenneth@kefo.no
+  about: |
+    Hi, I'm Kenneth , a MsC Student in Software Engineering at UiB.
+
+  social:
+    github: spydx
+    email: kenneth@kefo.no
+    instagram: spydx
+    twitter: spydx
+
+
+theme: jekyll-theme-hydejack
+plugins:
+  - jekyll-avatar
+
+#accent_image: /assets/img/sidebar-bg.jpg
+#accent_color: rgb(79,177,186)
+theme_color:  rgb(25,55,71)
+clap_button: false
+
+menu:
+  - title: Projects
+    url:   /projects/
+  - title: About
+    url:   /about/
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+legal:
+  - title: Projects
+    url:  /projects/
+  - title: About
+    url:  /about/
+ 
