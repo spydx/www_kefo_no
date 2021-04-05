@@ -21,9 +21,12 @@
 title: kefo.no
 email: kenneth@kefo.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  kefo.no is a hobby firm that does app development and personal projects.
+  If time allows it, I'm open to take on new projects.
+  Currently doing a Master in Software Engineering <a href="http://www.uib.no">@uib</a> (Univerity in Bergen), 
+  with a Bachelor's in Computer Security from <a href="http://www.uib.no">@uib</a>
+
+  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  spydx
@@ -33,20 +36,23 @@ author:
   name: Kenneth Fossen
   email: kenneth@kefo.no
   about: |
-    Hi, I'm Kenneth , a MsC Student in Software Engineering at UiB.
+    Hi, I'm Kenneth, a MsC Student in Software Engineering at UiB.
+    Currently studying Microservice architecture and security.
 
   social:
     github: spydx
     email: kenneth@kefo.no
     instagram: spydx
-    twitter: spydx
+    twitter: xdyps
 
 
 theme: jekyll-theme-hydejack
 plugins:
   - jekyll-avatar
 
-#accent_image: /assets/img/sidebar-bg.jpg
+#favicon: /favicon.ico
+apple_touch_icon: /assets/img/kefo.png
+accent_image: /assets/img/sidebar-bg.png
 #accent_color: rgb(79,177,186)
 theme_color:  rgb(25,55,71)
 clap_button: false
@@ -56,6 +62,10 @@ menu:
     url:   /projects/
   - title: About
     url:   /about/
+  - title: "@PictureBlog"
+    url: https://blog.kefo.no/
+  - title: "@TechBlog"
+    url: https://tech.kefo.no/
 
 collections:
   featured_categories:
@@ -70,4 +80,7 @@ legal:
     url:  /projects/
   - title: About
     url:  /about/
- 
+
+kramdown:
+  math_engine:         katex
+  math_engine_opts:    {}
