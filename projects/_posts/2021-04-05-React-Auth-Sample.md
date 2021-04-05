@@ -2,8 +2,7 @@
 layout: post
 title:  "React Authentication Sample"
 date:   2021-04-05 12:33:16 +0200
-categories: [projects, app]
-tags: [projects, app]
+tags: [app, react, rust, REST API, integration testing, docker ]
 
 ---
  [![React-Auth-Backend CI](https://github.com/spydx/react-auth-sample/actions/workflows/react-auth-backend.yml/badge.svg)](https://github.com/spydx/react-auth-sample/actions/workflows/react-auth-backend.yml)

@@ -23,8 +23,10 @@ email: kenneth@kefo.no
 description: >- # this means to ignore newlines until "baseurl:"
   kefo.no is a hobby firm that does app development and personal projects.
   If time allows it, I'm open to take on new projects.
-  Currently doing a Master in Software Engineering <a href="http://www.uib.no">@uib</a> (Univerity in Bergen), 
+  Currently doing a Master in Software Engineering <a href="http://www.uib.no">@uib</a>, 
   with a Bachelor's in Computer Security from <a href="http://www.uib.no">@uib</a>
+  <br><br>
+  <img src="/assets/img/kefo.png" width="200" height="200">
 
   
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -50,7 +52,7 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-avatar
 
-#favicon: /favicon.ico
+favicon: /favicon.ico
 apple_touch_icon: /assets/img/kefo.png
 accent_image: /assets/img/sidebar-bg.png
 #accent_color: rgb(79,177,186)
