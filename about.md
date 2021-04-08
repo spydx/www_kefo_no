@@ -12,9 +12,9 @@ You'll either find me running around on some mountain with my dog or benched beh
 
 Currently doing my masters in Software Engineering at the University in Bergen.
 
-My paper is about Security Microservice architecture.
+My paper is about Security in Microservice architecture.
 
-Do not hesitate to contact me 
+Do not hesitate to contact me
 
 {% include contact.html %}
 
