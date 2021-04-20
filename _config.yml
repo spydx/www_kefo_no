@@ -18,6 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+### COMMANDS
+## bundle exec jekyll serve
+
+
+
+
 title: kefo.no
 email: kenneth@kefo.no
 description: >- # this means to ignore newlines until "baseurl:"
@@ -66,8 +72,8 @@ menu:
     url:   /about/
   - title: "@PictureBlog"
     url: https://blog.kefo.no/
-  - title: "@TechBlog"
-    url: https://tech.kefo.no/
+  #- title: "@TechBlog"
+  #  url: https://tech.kefo.no/
 
 collections:
   featured_categories:
