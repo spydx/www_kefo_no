@@ -32,8 +32,7 @@ that captures the goals:
 * Make it easier to find and participate in local runs
 * Make it easier to reach out to potential runners
 
-This project was mainly to focus on studying SCRUM, XP and other Agile techniques for managing a project.
-
+This project was mainly to focus on studying SCRUM, XP and other Agile techniques for managing a project. But also was focusing on the use of programming patterns.
 
 ## Screenshots
 
