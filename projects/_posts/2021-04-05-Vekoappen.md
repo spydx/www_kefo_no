@@ -19,8 +19,10 @@ It will also inform you about new changes in the program through out the festiva
 Create your of Favorite program and attend as much fun as possible.
 
 ## Download
+[![Google Play](/assets/img/stores/play_en_badge_web_generic.png){: width="250" }](https://www.ekstremsportveko.com)
+[![AppStore](/assets/img/stores/appstore_en-us.svg){: width="200" }](https://www.ekstremsportveko.com)
 
-Google Play and AppStore
+
 ## Showcase
 
 ![](/assets/img/vekoappen/showcase/01.png){: width="250" } 
@@ -30,7 +32,6 @@ Google Play and AppStore
 ![](/assets/img/vekoappen/showcase/05.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/06.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/07.png){: width="250" }
-![](/assets/img/vekoappen/showcase/08.png){: width="250" }
 
 ## Issues and feature requests
 
