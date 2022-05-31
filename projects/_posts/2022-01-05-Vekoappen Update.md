@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "VekoAppen"
-date:   2021-04-05 12:33:16 +0200
-tags: [projects, app, flutter, ekstremsportveko]
+title:  "VekoAppen - Update for 2022"
+date:   2022-05-31 10:00:00 +0200
+tags: [projects, app, flutter, rust, go, firebase, fcm, ekstremsportveko]
 ---
 
 
@@ -11,12 +11,19 @@ tags: [projects, app, flutter, ekstremsportveko]
 
 [![Ekstremsportveko](/assets/img/vekoappen/ekstremsportveko.png)](https://www.ekstremsportveko.com)
 
-The app for the Ekstremsportveko festival in Voss.
+This year Ekstremsportveko needed some updates.
+It resulted in a new backend written in `Rust` and `Go` serving data to the app.
 
-With this app, you will get an overview of the program, where the events are in the Voss area, and find it with your favorite map app.
-It will also inform you about new changes in the program throughout the festival.
+Also, the app itself has received maintenance, pushing towards version 3 of `Flutter` and updated UI with new features.
 
-Create your Favorite program and attend as much fun as possible.
+* `Rust` backend supporting highlights
+* `Go` backend for Firebase Cloud Messaging
+* App got a new UI in the app
+  * Highlights (Instagram-ish feed of popular events)
+  * New menu (made a move to a side menu accessible from a hamburger)
+  * Better overview of messages pushed to the client
+  * Search feature for events and locations
+
 
 ## Download
 
@@ -25,16 +32,14 @@ Create your Favorite program and attend as much fun as possible.
 
 ## Showcase
 
-![](/assets/img/vekoappen/showcase/01.png){: width="250" } 
-![](/assets/img/vekoappen/showcase/02.png){: width="250" }
-![](/assets/img/vekoappen/showcase/03.png){: width="250" }
-![](/assets/img/vekoappen/showcase/04.png){: width="250" }
-![](/assets/img/vekoappen/showcase/05.png){: width="250" }
-![](/assets/img/vekoappen/showcase/06.png){: width="250" }
-![](/assets/img/vekoappen/showcase/07.png){: width="250" }
-![](/assets/img/vekoappen/showcase/08.png){: width="250" }
-![](/assets/img/vekoappen/showcase/09.png){: width="250" }
-![](/assets/img/vekoappen/showcase/10.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/01.png){: width="250" } 
+![](/assets/img/vekoappen/showcase_2022/02.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/03.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/04.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/05.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/06.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/07.png){: width="250" }
+
 
 ## Issues and feature requests
 

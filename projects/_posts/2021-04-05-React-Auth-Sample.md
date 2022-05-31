@@ -90,17 +90,17 @@ The backend has three endpoints:
 - GET `/api/accounts/` - view all accounts on the system
 
 The last endpoint is just there for making it easier to debug,
-being able to show all registerd users in the system.
+being able to show all registered users in the system.
 
-The backend only stores the users in memory, and will discard them if the service is restarted.
+The backend only stores the users in memory and will discard them if the service is restarted.
 
-An account is consisting of a users name, email and password.
-The password is hashed with [Argon2](https://www.argon2.com/) and stored in the service. The hash should be stores in a DB, but that is out of scope for this service.
+An account is consisting of a users name, email, and password.
+The password is hashed with [Argon2](https://www.argon2.com/) and stored in the service. The hash should be stored in a DB, but that is out of scope for this service.
 
-When a uses is logging in, the user supplies it's email and password, and will get a [JSON Web Token](https://jwt.io/) generated that is stored in the React app (Frontend) so the users is authenticated, this token gets discarded when the user logges out.
+When a user is logging in, the user supplies its email and password and will get a [JSON Web Token](https://jwt.io/) generated that is stored in the React app (Frontend) so the users is authenticated, this token gets discarded when the user logges out.
 
 CORS has been configured in the [Actix Web Framwork](https://actix.rs) for Rust.
-It's configured to allow all headers, origins and methods.
+It is configured to allow all headers, origins, and methods.
 Not recommended, but will suffice for our test environment here.
 
 There is no option to delete users.

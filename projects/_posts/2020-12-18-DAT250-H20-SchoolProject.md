@@ -19,8 +19,8 @@ tags: [projects, app, springboot, java, react, rust, flutter, iot]
 
 ## PollHub
 
-Is cloudbased voting service that supports IoT devices.
-It has been buildt with several components.
+It is a cloud-based voting service that supports IoT devices.
+It has been built with several components.
 
 - Backend
    - SpringBoot
@@ -41,7 +41,7 @@ It has been buildt with several components.
 
 ## Design Document
 
-We created a intial design of the application, and documented it here.
+We created an initial design of the application and documented it here.
 
 [Design: High-level application design and persistence ](https://github.com/spydx/dat250gruppe9/blob/main/DesignDocument/designdocument.md)
 
@@ -101,11 +101,11 @@ Do this in the [application.properties](dat250-feedapp-api/src/main/resources/ap
 
 ## API Documentation
 
-Sample sett of json examples against the API.
+Sample sett of JSON examples against the API.
 
 ## HTTP GET/POST/PUT/DELTE
 
-All `GET` are allowed from all users.
+All `GET` is allowed from all users.
 `POST` is allowed to `/api/auth/*`
 `POST, PUT, DELETE` is only for authenticated users.
 
@@ -198,10 +198,10 @@ Connection: keep-alive
 
 ### Change password
 
-Do be able to do this you need to know the ProfileID for the user you want to update.
+To be able to do this, you need to know the ProfileID for the user to be updated.
 This situation it is : `ProfileID: e4b8ed12-8cca-4f64-8e3f-efbe195589c7`
 
-Also the user have to be autheticated with a JWT Bearer token, 
+Also, the user has to be authenticated with a JWT Bearer token, 
 to be able to send the update. This is the HTTP HEADER Option:
 `Authorization: Bearer <token>`
 
@@ -246,10 +246,10 @@ Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4MzFmODNmZi05NjFjLTQ2OWEtY
 ```
 
 `PUBLIC` anyone can vote on it
-`PRIVATE` only for registred users
+`PRIVATE` only for registered users
 `HIDDEN` only for members that know the pollID
 
-Reponse:
+Response:
 
 ```http
 [
