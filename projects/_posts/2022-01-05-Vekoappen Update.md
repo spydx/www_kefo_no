@@ -24,7 +24,6 @@ Also, the app itself has received maintenance, pushing towards version 3 of `Flu
   * Better overview of messages pushed to the client
   * Search feature for events and locations
 
-
 ## Download
 
 [![Google Play](/assets/img/stores/play_en_badge_web_generic.png){: width="250" }](https://play.google.com/store/apps/details?id=no.kefo.vekoappen)
