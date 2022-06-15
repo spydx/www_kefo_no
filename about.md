@@ -6,13 +6,13 @@ permalink: /about/
 
 {% avatar {{ site.github_username }} size=150 %}
 
-Fun loving guy, having a passion for secure coding, dogs and the outdoors.
+Fun-loving guy who has a passion for secure coding, dogs, and the outdoors.
 
-You'll either find me running around on some mountain with my dog or benched behind the computerscreen until the late nights.
+You'll either find me running around on some mountain with my dog or benched behind the computer screen until the late nights.
 
-Currently doing my masters in Software Engineering at the University in Bergen.
+Masters in Software Engineering with a focus on security at the University in Bergen.
 
-My paper is about Security in Microservice architecture.
+My paper is about Capability-based Security in distributed systems.
 
 Do not hesitate to contact me
 

@@ -29,7 +29,7 @@ email: kenneth@kefo.no
 description: >- # this means to ignore newlines until "baseurl:"
   kefo.no is a hobby firm that does app development and personal projects.
   If time allows it, I'm open to take on new projects.
-  Currently doing a Master in Software Engineering <a href="http://www.uib.no">@uib</a>, 
+  Master's in Software Engineering from <a href="http://www.uib.no">@uib</a>, 
   with a Bachelor's in Computer Security from <a href="http://www.uib.no">@uib</a>
   <br><br>
   <img src="/assets/img/kefo.png" width="200" height="200">
@@ -44,8 +44,8 @@ author:
   name: Kenneth Fossen
   email: kenneth@kefo.no
   about: |
-    Hi, I'm Kenneth, a MsC Student in Software Engineering at UiB.
-    Currently studying Microservice architecture and security.
+    Hi, I'm Kenneth, a MSc Student in Software Engineering at UiB.
+    where I studied Microservice architecture and security.
 
   social:
     github: spydx

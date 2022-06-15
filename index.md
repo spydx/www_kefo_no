@@ -7,7 +7,7 @@ cover:  true
 
 Hi,
 
-here you will find some of my personal projects and projects that I've either done alone or in groups through school.
+here you will find some personal projects and projects that I've either done alone or in groups through school.
 
 I've also done some projects for organizations, e.g. **[VekoAppen](https://www.kefo.no/projects/2021/04/05/Vekoappen.html)** that I've been building for **[Ekstremsportveko](https://ekstremsportveko.com/)**
 
