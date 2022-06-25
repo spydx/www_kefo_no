@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MSc: Exploring Capability-based security in software design with Rust"
+title:  "M.Sc: Exploring Capability-based security in software design with Rust"
 date:   2022-06-01 10:00:00 +0200
 tags: [projects, capabilities, rust, gnap, monogdb, confused deputy, security, oauth]
 ---
@@ -22,7 +22,7 @@ We created a capability library we used to implement a RESTful API, simple-api, 
 ## Sourcecode and thesis
 
 In this repository, you will find all the code produced for this master thesis, also examples of what has been tried to do. Examples of the use of the created library and generated code from library usage.
-Also accompanying the repository, is the thesis itself and the presentation for the defense of the thesis.
+Also accompanying the repository is the thesis itself and the presentation for the defense of the thesis.
 
 [GitHub Capability-POC Repository](https://github.com/spydx/capability-poc/)
 
