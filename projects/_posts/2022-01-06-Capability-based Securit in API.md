@@ -13,7 +13,7 @@ Access control is one of the most critical aspects of software engineering when 
 
 Previous research shows that security challenges, such as Confused Deputy, can be solved with a capability-based approach. To achieve a capability-based system for REepresentational State Transfer (RESTful) Application Programming Interfaces(APIs), we use the Rust programming language to explore how we can create a capability design pattern. We want to create a library for the developer to harness the power of capabilities when writing the code, adhering to the capability properties and Principles of Least Privilege (PoLP), and creating a RESTful API.
 
-![Capability-based api](/assets/img/thesis/cap-api.png)
+![Capability-based API](/assets/img/thesis/cap-api.png)
 
 We created a capability library we used to implement a RESTful API, simple-api, connecting it with Grant Negotiation and Authorization Protocol (GNAP) into a proof-of-concept capability-based system published on GitHub. Resulting in successfully creating capability-based access control for RESTful APIs. We show a use-case where the core access control model is Capabilities and potentially mitigates confused deputies in a RESTful API software architecture.
 
