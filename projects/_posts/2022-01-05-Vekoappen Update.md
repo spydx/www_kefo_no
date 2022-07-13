@@ -18,7 +18,7 @@ Also, the app itself has received maintenance, pushing towards version 3 of `Flu
 
 * `Rust` backend supporting highlights
 * `Go` backend for Firebase Cloud Messaging
-* App got a new UI in the app
+* App got a new UI
   * Highlights (Instagram-ish feed of popular events)
   * New menu (made a move to a side menu accessible from a hamburger)
   * Better overview of messages pushed to the client

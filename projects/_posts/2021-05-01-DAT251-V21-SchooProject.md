@@ -7,8 +7,7 @@ tags: [projects, app, springboot, java, react, typescript, testing]
 
 **Repo:** [dat251gr9](https://github.com/spydx/dat250gr9)
 
-
-Group project for DAT251 Group 9 Spring 2021
+A group project for DAT251 Group 9 Spring 2021
 
 | Members        | Contact (github)                                       |
 | -------------- | ------------------------------------------------------ |
@@ -24,15 +23,15 @@ Group project for DAT251 Group 9 Spring 2021
 [Webpage: Lopeplassen](https://lopeplassen.vercel.app/)
 [Backend: Swagger](https://lop-backend.herokuapp.com)
 
-TL;DR; It is a [Finn.no](https://www.finn.no) for running/trailrunning competitions.
+TL;DR; It is a [Finn.no](https://www.finn.no) for running/trail running competitions.
 
-Idea is to have a improve on todays platforms to create a better solution
+Idea is to improve on today's platforms to create a better solution
 that captures the goals:
 
 * Make it easier to find and participate in local runs
 * Make it easier to reach out to potential runners
 
-This project was mainly to focus on studying SCRUM, XP and other Agile techniques for managing a project. But also was focusing on the use of programming patterns.
+This project was mainly focused on studying SCRUM, XP, and other Agile techniques for managing a project. But also was focusing on the use of programming patterns.
 
 ## Screenshots
 
