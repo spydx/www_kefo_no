@@ -25,7 +25,7 @@
           },
           {
             "key": "Content-Security-Policy-Report-Only",
-            "value": "default-src 'self' https://www.kefo.no https://kefo.no"
+            "value": "default-src 'self' https://www.kefo.no https://kefo.no; font-src https://fonts.gstatic.com/; style-src: https://fonts.googleapis.com/ "
           }
         ]
       }
