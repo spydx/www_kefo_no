@@ -25,7 +25,7 @@
           },
           {
             "key": "Content-Security-Policy",
-            "value": "default-src 'self' https://www.kefo.no https://kefo.no; script-src 'unsafe-inline' https://www.kefo.no; font-src 'self' https://fonts.gstatic.com/ https://fonts.googleapis.com/; style-src 'unsafe-inline'; style-src-elem 'unsafe-inline' https://www.kefo.no https://fonts.googleapis.com"
+            "value": "default-src 'self' https://www.kefo.no https://kefo.no; script-src 'unsafe-inline' https://www.kefo.no; font-src 'self' https://fonts.gstatic.com/ https://fonts.googleapis.com/; style-src 'unsafe-inline'; style-src-elem 'unsafe-inline' https://www.kefo.no https://fonts.googleapis.com; img-src githubusercontent.com/"
           }
         ]
       }
