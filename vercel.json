@@ -22,6 +22,10 @@
           {
             "key": "Permissions-policy",
             "value": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
+          },
+          {
+            "key": "Content-Security-Policy-Report-Only",
+            "value": "default-src 'self' https://www.kefo.no"
           }
         ]
       }
