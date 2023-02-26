@@ -24,8 +24,8 @@
             "value": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
           },
           {
-            "key": "Content-Security-Policy",
-            "value": "default-src 'self' https://www.kefo.no https://kefo.no; script-src 'unsafe-inline' https://www.kefo.no; font-src 'self' https://fonts.gstatic.com/ https://fonts.googleapis.com/; style-src 'unsafe-inline'; style-src-elem 'unsafe-inline' https://www.kefo.no https://fonts.googleapis.com; img-src 'self' https://*;"
+            "key": "Content-Security-Policy-Report-Only",
+            "value": "default-src 'self' https://www.kefo.no https://kefo.no; script-src 'self'; font-src 'self' https://fonts.gstatic.com/ https://fonts.googleapis.com/; style-src 'self'; style-src-elem https://www.kefo.no https://fonts.googleapis.com; img-src 'self' https:;"
           }
         ]
       }
