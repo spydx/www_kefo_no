@@ -68,6 +68,8 @@ clap_button: false
 menu:
   - title: Projects
     url:   /projects/
+  - title: Workshops
+    url: /workshops/
   - title: About
     url:   /about/
   - title: "@PictureBlog"
@@ -86,6 +88,8 @@ collections:
 legal:
   - title: Projects
     url:  /projects/
+  - title: Workshops
+    url: /workshops/
   - title: About
     url:  /about/
 
