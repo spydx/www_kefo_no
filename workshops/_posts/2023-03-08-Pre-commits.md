@@ -13,7 +13,7 @@ We discuss the individual needs in the projects and common pressure points of ou
 and we looked at how different tools can help us and how we want them to help us.
 There was a demo of how it works, and we looked at a Pull Request with a specific configuration for our project.
 
-Important tools in this workshop
-[git client](https://git-scm.com)
-[Pre-commit](https://pre-commit.com/)
-[Husky.net](https://alirezanet.github.io/Husky.Net/)
+Important tools in this workshop:
+[git client](https://git-scm.com),
+[Pre-commit](https://pre-commit.com/),
+[Husky.net](https://alirezanet.github.io/Husky.Net/).
