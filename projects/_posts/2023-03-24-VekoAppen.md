@@ -13,3 +13,7 @@ There will be a small update to the app stating we are ending the cooperation,
 and that the information shown in the app might not be correct.
 
 Kenneth
+
+You can support by buying a coffee ☕️ here — 
+[https://www.buymeacoffee.com/kennethfossen](https://www.buymeacoffee.com/kennethfossen)
+![](/assets/bmc_qr.png){: width="250" .centered}
