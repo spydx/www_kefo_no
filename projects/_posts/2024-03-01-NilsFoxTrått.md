@@ -5,9 +5,9 @@ date:   2024-03-01 08:00:00 +0200
 tags: [DIY, campervan, 3D-printing]
 ---
 
-# Van build link overview
-
 There are several videos on my IG accound shoing the van build: [spydx](https://www.instagram.com/spydx/)
+
+## Van build link overview
 
 [Van Build 1](https://www.instagram.com/reel/C27IHcro19D/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 [Van build 2](https://www.instagram.com/reel/C3xxw6pI8xK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
